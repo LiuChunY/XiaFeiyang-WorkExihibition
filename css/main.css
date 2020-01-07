@@ -2326,6 +2326,30 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
 }
 
+.p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner1, .sb_bar {
+  background: -moz-linear-gradient(0deg, #000000 0%, #000000 100%);
+  background: -webkit-linear-gradient(0deg, #000000 0%, #000000 100%);
+  background: -ms-linear-gradient(0deg, #000000 0%, #000000 100%);
+}
+
+.p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner2, .sb_bar {
+  background: -moz-linear-gradient(0deg, #72adc3 0%, #72adc3 100%);
+  background: -webkit-linear-gradient(0deg, #72adc3 0%, #72adc3 100%);
+  background: -ms-linear-gradient(0deg, #72adc3 0%, #72adc3 100%);
+}
+
+.p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner3, .sb_bar {
+   background: -moz-linear-gradient(0deg, #b5be6c 0%, #b5be6c 100%);
+   background: -webkit-linear-gradient(0deg, #b5be6c 0%, #b5be6c 100%);
+   background: -ms-linear-gradient(0deg, #b5be6c 0%, #b5be6c 100%);
+ }
+
+.p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner4, .sb_bar {
+  background: -moz-linear-gradient(0deg, #3d73dc 0%, #3d73dc 100%);
+  background: -webkit-linear-gradient(0deg, #3d73dc 0%, #3d73dc 100%);
+  background: -ms-linear-gradient(0deg, #3d73dc 0%, #3d73dc 100%);
+}
+
 .p1-gradient-color, .single-services:hover .lnr {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
